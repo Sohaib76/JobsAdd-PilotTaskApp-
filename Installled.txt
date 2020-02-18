@@ -1,0 +1,57 @@
+react-native init projectName --version react-native@0.58.6
+
+npm install native-base, react-native link
+
+npm install --save react-native-vector-icons ,  react-native link
+npm i react-native-elements , react-native link
+
+
+npm i react-native-floating-action --save
+
+
+npm install react-native-parallax-scroll-view
+npm i react-native-parallax-header
+
+npm install react-navigation@3.13.0
+
+npm install react-native-gesture-handler@1.1.0 , react-native link
+
+npm install moment
+
+npm install uuid
+
+
+
+ICON ISSUE
+https://oblador.github.io/react-native-vector-icons/
+https://github.com/oblador/react-native-vector-icons/issues/323
+
+FLOATING BUTTON ISSUE
+https://github.com/santomegonzalo/react-native-floating-action
+
+DATE AND TIME ISSUE
+https://tecadmin.net/get-current-date-time-javascript/
+
+PARALLAX VIEW ISSUE
+
+https://github.com/i6mi6/react-native-parallax-scroll-view/issues
+https://reactnativeexample.com/a-react-native-scroll-view-component-with-parallax-header/
+
+
+LINKS
+https://www.instamobile.io/android-development/generate-react-native-release-build-android/
+https://stackoverflow.com/questions/41027663/how-to-map-an-array-of-objects-in-react
+https://stackoverflow.com/questions/57651858/how-do-i-display-data-from-asyncstorage-in-a-custom-component
+https://www.skptricks.com/2018/12/understanding-slice-splice-split-in-javascript.html
+https://tecadmin.net/get-current-date-time-javascript/
+https://github.com/react-navigation/react-navigation/issues/922
+https://reactnativeexample.com/a-react-native-scroll-view-component-with-parallax-header/
+https://reactnativeexample.com/parallax-scroll-view-for-react-native/
+https://github.com/santomegonzalo/react-native-floating-action
+https://github.com/oblador/react-native-vector-icons/issues/323
+https://oblador.github.io/react-native-vector-icons/
+https://reactnativeexample.com/material-design-action-button-for-react-native/
+https://coolors.co/browser/latest/1
+https://github.com/GeekyAnts/NativeBase/issues/1579
+https://www.figma.com/proto/uec6uPZxW9mDN392tgWPCl/Pilot-app?node-id=1%3A2&scaling=min-zoom
+https://github.com/i6mi6/react-native-parallax-scroll-view
